@@ -1,4 +1,8 @@
+## Notice
+
 :warning: **This package has been renamed. Use `@stdlib/math-base-ops-umul` instead.** :warning:
+
+* * *
 
 <!--
 
