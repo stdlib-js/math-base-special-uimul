@@ -1,6 +1,10 @@
-## Notice
+## Attention
 
 :warning: **This package has been renamed. Use `@stdlib/math-base-ops-umul` instead.** :warning:
+
+<br>
+<br>
+<br>
 
 * * *
 
